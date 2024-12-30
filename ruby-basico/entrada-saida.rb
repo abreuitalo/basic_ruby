@@ -1,7 +1,7 @@
 # puts => saida
 # gets => entrada (get 's'tring)
 # chomp => gets.chomp (remove \n de string)
-# inspec => inspeciona valor (mostra info ocultas)
+# inspect => inspeciona valor (mostra info ocultas)
 
 puts "Olá!"
 puts "Digite seu nome: "
